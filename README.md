@@ -1,4 +1,4 @@
-# E-commerce
+# E-COMMERCE
 
 # Steps 
 1. Install Tools(vscode-mongodb-anybrowser)
