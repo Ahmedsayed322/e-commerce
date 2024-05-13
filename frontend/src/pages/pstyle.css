@@ -1,0 +1,95 @@
+.list-group-flush>.list-group-item {
+  background-color: transparent;
+    color:#76ABAE;
+}
+
+.card-body{
+    background-color: #222831;
+
+}
+.me {
+  border-style: none;
+}
+.To-Cart{
+    color: #222831;
+    font-weight: bold;
+     background-color: #76ABAE;
+     border: 1px solid ;
+     border-color: #222831;
+}
+.To-Cart:hover{
+    background-color:#222831;
+    color: #76ABAE;
+    border: 1px solid #76ABAE;
+}
+.descr{
+    font-size: 18px;
+    
+}
+.sign-in-btn {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(118, 171, 174);
+    color: '#EEEEE';
+    font-weight: bold;
+    border: none;
+    
+  }
+  
+  .sign-in-btn:hover {
+    background-color: #222831;
+    border-style:solid ;
+    border-width: 1px;
+    border-color: #EEEE;
+  }
+  .continuebtn{
+    background-color: #76ABAE;
+    width: 200px;
+    height: 50px;
+  }
+  .continuebtn:hover{
+ background-color: #222831;
+ border-color: #76ABAE;
+  }
+  .btnsu{
+    background-color: #76ABAE;
+    color: #222831;
+    font-size: 17px;
+    font-weight: bold;
+    border-color: #222831;
+    transition: 0.5s;
+
+  }
+  .btnsu:hover{
+    background-color: #222831;
+    color: #76ABAE;
+    border-color:#76ABAE;
+  }
+#fix1{
+  margin-bottom: 20px;
+}
+select{
+  background-color: #222831;
+  border: none;
+  color: #EEEE;
+}
+select option {
+  margin: 40px;
+  background: #222831;
+  color: #76ABAE;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+}
+#button-search{
+  color: #222831;
+  background-color: #76ABAE;
+  
+  border-color: #76ABAE;
+transition: 0.5s;
+}
+#button-search:hover{
+  color:#76ABAE;
+  background-color: #222831;
+}
+.ay7aga{
+  background-color:red;
+}

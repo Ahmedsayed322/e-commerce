@@ -4,7 +4,7 @@ const data = {
       name: 'Razer Naga Trinity Gaming Mouse Razer Inc',
       productid: 'Razer Naga Trinity Gaming Mouse Razer Inc',
       category: 'accessories',
-      image: './images/mouse1.png',
+      image: '/images/mouse1.png',
       price: 30,
       instock: 10,
       brand: 'Razer',
@@ -18,7 +18,7 @@ const data = {
       name: 'Razer BlackWidow Chroma V2 Gaming keypad',
       productid: 'Razer BlackWidow Chroma V2 Gaming keypad',
       category: 'accessories',
-      image: './images/Keyboard1.png',
+      image: "/images/Keyboard.png",
       price: 50,
       instock: 15,
       brand: 'Razer',
@@ -31,7 +31,7 @@ const data = {
       name: ' Rato Spirit Of Gamer ELITE M20 Preto RGB',
       productid: 'Rato Spirit Of Gamer ELITE M20 Preto RGB',
       category: 'accessories',
-      image: './images/mouse2.png',
+      image: '/images/mouse2.png',
       price: 35,
       instock: 6,
       brand: 'Spirit Of Gamer',
@@ -44,7 +44,7 @@ const data = {
       name: 'ASUS RGB Mechanical Gaming Keyboard',
       productid: 'ASUS RGB Mechanical Gaming Keyboard',
       category: 'accessories',
-      image: './images/keyboard2.png',
+      image: '/images/keyboard2.png',
       price: 40,
       instock: 10,
       brand: 'ASUS',
@@ -53,6 +53,7 @@ const data = {
       description:
         ' compact ten keyless form-factor expands to a full macro/10-key keyboard with the optional Claymore Bond',
     },
+    
   ],
 };
 export default data;

@@ -1,0 +1,16 @@
+
+.btn-addto:hover{
+    background-color:#222831;
+    color: #76ABAE;
+    border: 1px solid;
+}
+.Title-1:hover{
+    color: #EEEEEE;
+}
+#animation{
+    transition: all 0.3s;
+}
+#animation:hover{
+  transform: scale(1.03);
+
+}
