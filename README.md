@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #E-commerce
 1. Install tools(vscode-mongodb-anybrowser)
 2. Create React App
@@ -127,3 +128,11 @@
     1. create edit button
     2. create edit product ui
     3. dispaly product info in the input boxes
+=======
+# E-COMMERCE
+
+# Steps 
+1. Install Tools(vscode-mongodb-anybrowser)
+2. Create React App
+3. Create Git Repository
+>>>>>>> 3a80794a468a8800e7660b335f61e63c2b8ffa16
